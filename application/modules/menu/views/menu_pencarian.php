@@ -1,0 +1,2 @@
+<a href="<?php echo base_url()?>pembayaran" class="btn btn-primary"><i class="fa fa-search"></i> Pencarian Kelas</a>
+<a href="<?php echo base_url()?>pembayaran/nama_siswa" class="btn btn-primary"><i class="fa fa-search"></i> Pencarian Nama</a>
